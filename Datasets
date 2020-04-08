@@ -1,0 +1,3 @@
+In our dataset we have 2 folder, one for training_set and the other one test_set.
+Each set include 2 folder viz Dogs,Cats.
+The training_set have 8000 images of dogs and cats and the test_set includes 2000 images of the same.
